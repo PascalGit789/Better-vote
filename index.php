@@ -24,7 +24,7 @@ if(isset($_GET["page"]) && $_GET["page"] == "404") $page = "404";
 	<meta charset="utf-8" />
 	<title>Better-Vote</title>
 	
-	<base href="/Better_vote/"> <!-- Just leave "/" In PROD      and "/Better_vote/" in DEV     CHERCHER TOUT LES /Better_vote        -->
+	<base href="/">
 	
 	<link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
 	<meta name="description" content="Create an interactive poll and get the results with multiple voting systems. Compare First-past-the-post's result to 5 other voting systems">
@@ -34,12 +34,6 @@ if(isset($_GET["page"]) && $_GET["page"] == "404") $page = "404";
 		<script src="includes/Chart.min.js"></script> 
 		<script src="includes/Chart.PieceLabel.js"></script>
 	<?php } ?>
-	
-	<!-- 
-	<link rel="stylesheet" type="text/css" href="css/reset.css">
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css"> 
-	-->
 	
 	<link rel="stylesheet" type="text/css" href="css/all_style.min.css">
 </head>
