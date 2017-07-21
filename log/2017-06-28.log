@@ -1,0 +1,146 @@
+2017-06-28 21:33:58.927444	test [212]	: test
+2017-06-28 21:34:17.182452	test [211]	: Array
+(
+)
+
+2017-06-28 21:36:14.057254	test [211]	: Array
+(
+)
+
+2017-06-28 21:37:57.310508	test [211]	: Array
+(
+    [0] => Array
+        (
+            [question] => testt
+            [public] => 1
+            [url] => 33768920
+        )
+
+    [1] => Array
+        (
+            [question] => testt
+            [public] => 1
+            [url] => 28242797
+        )
+
+    [2] => Array
+        (
+            [question] => test 4 option
+            [public] => 0
+            [url] => 94559020
+        )
+
+    [3] => Array
+        (
+            [question] => <script>alert('test1')</script>
+            [public] => 0
+            [url] => 65371093
+        )
+
+    [4] => Array
+        (
+            [question] => Testttt <br> sadsadasdads
+            [public] => 1
+            [url] => 26116943
+        )
+
+    [5] => Array
+        (
+            [question] => Test multiple 2
+            [public] => 1
+            [url] => 51338806
+        )
+
+    [6] => Array
+        (
+            [question] => Test 2 choix
+            [public] => 1
+            [url] => 85204162
+        )
+
+    [7] => Array
+        (
+            [question] => Testt borda
+            [public] => 1
+            [url] => 77879028
+        )
+
+    [8] => Array
+        (
+            [question] => Test condorcet
+            [public] => 1
+            [url] => 71158142
+        )
+
+    [9] => Array
+        (
+            [question] => Test condorcet
+            [public] => 1
+            [url] => 64420776
+        )
+
+    [10] => Array
+        (
+            [question] => Testtt 2 option
+            [public] => 1
+            [url] => 72992858
+        )
+
+    [11] => Array
+        (
+            [question] => Test question long test kjasdj asipojd aisjaoisjias jdiasdasdasdasdsada sdasdohjas oidh jasoiud jasi
+            [public] => 1
+            [url] => 62105407
+        )
+
+    [12] => Array
+        (
+            [question] => Testytt <script> alert('test') </script>
+            [public] => 1
+            [url] => 94177246
+        )
+
+    [13] => Array
+        (
+            [question] => Testytt <script> alert("test") </script>
+            [public] => 1
+            [url] => 50476379
+        )
+
+    [14] => Array
+        (
+            [question] => Testt 1 voteoasodisaoi 
+            [public] => 1
+            [url] => 72869262
+        )
+
+    [15] => Array
+        (
+            [question] => Test supplementary bogue
+            [public] => 1
+            [url] => 25103454
+        )
+
+    [16] => Array
+        (
+            [question] => Test #1
+            [public] => 1
+            [url] => 73753662
+        )
+
+    [17] => Array
+        (
+            [question] => testt
+            [public] => 1
+            [url] => 33768920
+        )
+
+    [18] => Array
+        (
+            [question] => Testttasdsad
+            [public] => 1
+            [url] => 17415771
+        )
+
+)
+
